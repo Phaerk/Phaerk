@@ -26,6 +26,6 @@ I'm a **Computer Engineer** based in **Madrid, Spain**, passionate about buildin
 ### Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/taner-atakan/)
-* [Mobile]+34 675 264 929
-* [Mail]atakan.ibis@gmail.com
+* Mobile: +34 675 264 929
+* Mail: atakan.ibis@gmail.com
 * Location: Alcorcón, Madrid 🇪🇸
