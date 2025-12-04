@@ -16,12 +16,8 @@ I'm a **Computer Engineer** based in **Madrid, Spain**, passionate about buildin
 
 ---
 
-###  GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phaerk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaerk&layout=compact&theme=radical)
 
----
 
 ### Connect with Me
 
