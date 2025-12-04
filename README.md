@@ -6,7 +6,7 @@ I'm a **Computer Engineer** based in **Madrid, Spain**, passionate about buildin
 
 ---
 
-### Tech Stack & Tools
+###  Tech Stack & Tools
 
 * **Cloud & Infra:** Azure (VM, VNet), Terraform (IaC)
 * **Containerization:** Docker, Docker Compose, Kubernetes (Basics)
@@ -16,10 +16,10 @@ I'm a **Computer Engineer** based in **Madrid, Spain**, passionate about buildin
 
 ---
 
-### GitHub Stats
+###  GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=phaerk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaerk&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phaerk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaerk&layout=compact&theme=radical)
 
 ---
 
